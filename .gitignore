@@ -1,0 +1,10 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Builds]/
+/Recordings/
+/[Uu]serSettings/
+*.mp4
+*.zip
+*.unitypackage
